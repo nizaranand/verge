@@ -1,0 +1,6 @@
+[submodule "lib/sag"]
+	path = lib/sag
+	url = git://github.com/sbisbee/sag.git
+[submodule "lib/sag-js"]
+	path = lib/sag-js
+	url = git://github.com/sbisbee/sag-js.git
